@@ -1,11 +1,8 @@
 //@author Cody Tremblay 991317990
 package cardtrickice1;
 
-/** define card value and suits
- * 
- *
- * @author sivagamasrinivasan
- */
+//define card value and suits
+
 public class Card 
 {
     private int value;
