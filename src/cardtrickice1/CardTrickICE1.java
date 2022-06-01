@@ -92,6 +92,11 @@ public class CardTrickICE1 {
         
         if (output == 0)
             System.out.println("Your card does not match any of the 7 cards.");
+        
+        
+       Card luckyCard = new Card();
+            luckycard.setValue(3);
+            luckycard.setSuits("Clubs");//Changes made in github
     }
     
 }
