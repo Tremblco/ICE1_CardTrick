@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//@author Cody Tremblay 991317990
 package cardtrickice1;
 
 /** define card value and suits
@@ -48,4 +44,8 @@ public class Card
     
     //method for suits
     
+    public String toString ()
+    {
+      return this.getValue()+"\t"+this.getSuits();
+    }
 }
