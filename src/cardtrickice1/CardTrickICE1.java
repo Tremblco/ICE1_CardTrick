@@ -95,8 +95,8 @@ public class CardTrickICE1 {
         
         
        Card luckyCard = new Card();
-            luckycard.setValue(3);
-            luckycard.setSuits("Clubs");//Changes made in github
+            luckyCard.setValue(3);
+            luckyCard.setSuits("Clubs");//Changes made in github
     }
     
 }
