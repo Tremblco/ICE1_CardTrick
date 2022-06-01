@@ -46,6 +46,6 @@ public class Card
     
     public String toString ()
     {
-      return this.getValue()+"\t"+this.getSuits();
+      return this.getValue()+" of "+this.getSuits();
     }
 }
